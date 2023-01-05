@@ -1,0 +1,26 @@
+[
+  {
+    "AprimoID": 12501,
+    "MWB/CCluster": "ReFi4",
+    "Market": "Gregor Test",
+    "Channel": "Paid Social",
+    "FlightID": 1,
+    "AssetType": "Static 1:1",
+    "FlightStart": "2023-05-29T00:00:00",
+    "FlightEnd": "2023-07-30T00:00:00",
+    "HeroProduct": "HeroProduct",
+    "Pillar": "Gregor Test",
+    "PlanCode": 538592,
+    "PlanID": 538592,
+    "VersionID": 1,
+    "ActivityID": 98435059,
+    "ActivityName": "Paid Social_FiFi4/Get On Board_Facebook_Static 1:1_Consideration / Acquisiton_Social - Auction-NSH",
+    "BrandID": 9521,
+    "BrandName": "FiFi4/Get On Board",
+    "Category": "Fish",
+    "Site/PartnerName": "Facebook",
+    "MediaOwnerLevel1": "Gregor Test",
+    "DSPPlatform": "None",
+    "BuyType": "Social"
+  }
+]
